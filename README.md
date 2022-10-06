@@ -7,4 +7,4 @@ pkg install git
 git clone
 https://github.com/Firmankrrd/deface-web
 
-python deface-web
+python2 deface-web
